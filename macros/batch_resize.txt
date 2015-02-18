@@ -1,0 +1,1 @@
+run("Size...", "width=128 height=128 interpolation=Bicubic");

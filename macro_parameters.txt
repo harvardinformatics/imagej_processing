@@ -1,0 +1,3 @@
+"/n/home_rc/bfreeman/classes/tips_imagej/samples/batchin/|/n/home_rc/bfreeman/classes/tips_imagej/samples/batchout/|.tif|128"
+
+/n/home_rc/bfreeman/classes/tips_imagej/samples/batchin/ /n/home_rc/bfreeman/classes/tips_imagej/samples/batchout/ .tif 128 
